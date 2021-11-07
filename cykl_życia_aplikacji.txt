@@ -1,0 +1,33 @@
+• Po pierwszym uruchomieniu aplikacji
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+• Po wciśnięciu przycisku Cofnij
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+
+• Po ponownym uruchomieniu aplikacji
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+• Po wciśnięciu przycisku ekranu głównego Home
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+
+• Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+• Obrót ekranu
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+-pojawiło się pierwsze pytanie, nie te które było włączone
+
+
